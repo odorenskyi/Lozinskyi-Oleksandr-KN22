@@ -1,0 +1,6 @@
+#ifndef MODULESLOZINSKIY_H_INCLUDED
+#define MODULESLOZINSKIY_H_INCLUDED
+
+int SampleAddInt(int x, int z);
+
+#endif // MODULESLOZINSKIY_H_INCLUDED

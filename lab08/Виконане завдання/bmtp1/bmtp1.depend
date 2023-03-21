@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678433683 source:c:\abc\bmtp1\main.cpp
+	<iostream>
+	<bib.h>
+
+1678432392 c:\abc\bmtp lib\bib.h
+
