@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1584209020 source:d:\ÊÎÄ\c++\áìòï9\moduleslozinskiy\lozinskiytask\lozinskiytask\main.cpp
+	<iostream>
+
+1685672204 source:d:\ÊÎÄ\c++\áìòï9\lozinskiytask\main.cpp
+	<iostream>
+	"moduleslozinskiy.h"
+	<windows.h>
+	<clocale>
+	<iomanip>
+	<cmath>
+	<vector>
+	<math.h>
+
+1685671363 d:\ÊÎÄ\c++\áìòï9\moduleslozinskiy\moduleslozinskiy.h
+	<vector>
+
+1685672407 source:d:\ÊÎÄ\c++\prj\lozinskiytask\main.cpp
+	<iostream>
+	"moduleslozinskiy.h"
+	<windows.h>
+	<clocale>
+	<iomanip>
+	<cmath>
+	<vector>
+	<math.h>
+
+1685671363 d:\ÊÎÄ\c++\prj\moduleslozinskiy\moduleslozinskiy.h
+	<vector>
+

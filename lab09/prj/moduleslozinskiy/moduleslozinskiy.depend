@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685665870 source:d:\ÊÎÄ\c++\áìòï9\moduleslozinskiy\moduleslozinskiy\moduleslozinskiy\main.cpp
+	<iostream>
+
+1685670834 source:d:\ÊÎÄ\c++\áìòï9\moduleslozinskiy\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	"moduleslozinskiy.h"
+
+1685671363 d:\ÊÎÄ\c++\áìòï9\moduleslozinskiy\moduleslozinskiy.h
+	<vector>
+
