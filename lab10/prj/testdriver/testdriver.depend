@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686101681 source:d:\йнд\c++\bmtp 10\prj\testdriver\main.cpp
+	<iostream>
+	<string>
+	"libmoduleslozinskiy.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1686101619 d:\йнд\c++\bmtp 10\prj\moduleslozinskiy\libmoduleslozinskiy.h
+
